@@ -1,0 +1,5 @@
+.scrapy
+.ipynb_checkpoints/
+__pycache__/
+boe_working_papers/
+*.json
